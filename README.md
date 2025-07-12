@@ -10,6 +10,8 @@ Welcome to the official Fellini Circle app — a private, cinematic hospitality 
 
 ## Install Locally
 
+To get started with the app locally:
+
 ```bash
 git clone https://github.com/fellini-circle-app/fellini-circle-app.git
 cd fellini-circle-app
